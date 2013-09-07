@@ -1,0 +1,84 @@
+This Sample application demonstrates HTML5 canvas to draw lines using touch, mouse 
+and device accelerometer. It uses the JQuery and JQuery Mobile libraries to 
+implement the user interface and functionality. Cordova (PhontGap) API is used to 
+access the device specific features.
+
+Intel(R) HTML5 Development Environment Beta
+-------------------------------------------
+This sample is part of the Intel(R) HTML5 Development Environment tool. 
+Please sign up the beta at http://software.intel.com/en-us/html5.
+To see the technical detail of the sample, please visit the sample article page 
+at http://software.intel.com/en-us/articles/drawing-app-using-html5-canvas. 
+
+License Information Follows
+***************************
+
+Application Files
+-----------------
+* index.html
+* config.xml
+* splash.png
+* icon.png
+* screenshot.png
+
+Copyright (c) 2012, Intel Corporation. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, 
+are permitted provided that the following conditions are met:
+
+- Redistributions of source code must retain the above copyright notice, 
+  this list of conditions and the following disclaimer.
+
+- Redistributions in binary form must reproduce the above copyright notice, 
+  this list of conditions and the following disclaimer in the documentation 
+  and/or other materials provided with the distribution.
+
+- Neither the name of Intel Corporation nor the names of its contributors 
+  may be used to endorse or promote products derived from this software 
+  without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, 
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE 
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE 
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR 
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE 
+GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) 
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT 
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT 
+OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+jQuery and jQuery Mobile
+------------------------
+* lib/jquery/jquery-1.8.2.min.js
+* lib/jquery.mobile/jquery.mobile-1.2.0.min.js 
+* lib/jquery.mobile/jquery.mobile-1.2.0.min.css
+
+Copyright (c) 2012, jQuery Foundation and other contributors.
+
+* source:   http://jquery.com/
+* source:   http://jquerymobile.com/
+* license:  http://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt
+
+
+Cordova (PhoneGap) Library
+--------------------------
+* lib/cordova/cordova-2.1.0.js
+
+* source:  http://www.phonegap.com/
+* license:  http://www.apache.org/licenses/LICENSE-2.0.html
+
+
+Default Application Icon for Packaging
+--------------------------------------
+* icon.png
+
+Created by Intel Corporation, derived from the original source below.
+
+Licensed under the Creative Commons Attribution 3.0 license. 
+
+* original: http://openclipart.org/detail/166596/palette-by-mathec  
+* license:  http://creativecommons.org/publicdomain/zero/1.0/
+
+
