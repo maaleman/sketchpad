@@ -16,7 +16,7 @@
 <!-- let phonegap build use latest
     <preference name="phonegap-version" value="2.1.0" />
 -->
-    <preference name="orientation"      value="portrait" />
+    <preference name="orientation"      value="landscape" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
     <preference name="webviewbounce" value="false" />
