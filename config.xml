@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.intel.intel-html5-sample-sketchpad"
+        version   = "1.0.0">
+    <name>Sketch Pad</name>
+
+    <description>
+        Sample Application to use HTML5 canvas to draw using either touch or mouse or accelerometer.
+    </description>
+
+    <author href="http://software.intel.com/html5">
+        Intel Corporation
+    </author>
+
+<!-- let phonegap build use latest
+    <preference name="phonegap-version" value="2.1.0" />
+-->
+    <preference name="orientation"      value="portrait" />
+    <preference name="target-device"    value="universal" />
+    <preference name="fullscreen"       value="false" />
+    <preference name="webviewbounce" value="false" />
+
+    <icon src="icon.png" />
+    <gap:splash src="splash.png" />
+</widget>

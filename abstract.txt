@@ -1,0 +1,1 @@
+Simple drawing clipboard for free style drawing with colors using touch, mouse or accelerometer.
